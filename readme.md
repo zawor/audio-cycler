@@ -15,7 +15,7 @@ Put them under `icons` dir and name them same as output name (which can be set i
 
 This abomination is based on:
 
-- switching on [this thread](https://www.autohotkey.com/boards/viewtopic.php?t=49980)... at least to some extent...
+- switching of output, on [this thread](https://www.autohotkey.com/boards/viewtopic.php?t=49980)... at least to some extent...
 - `tooltip.ahk`: Credits to engunneer [under this thread](http://www.autohotkey.com/board/topic/21510-toaster-popups/#entry140824)
 
 All other stuff made by me is Public Domain or WFLPL 2 if that suites you more, but you have to sort it out by yourself which part is which.
